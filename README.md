@@ -3,7 +3,7 @@
 ## I'm Full Stack Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🤞 I am looking for an opportunity to develop my career
+- 🤞 I am looking for an opportunity to develop me 
 - ⚡ Fun fact: I love to Swim and play Games
 
 ### Connect with me:
