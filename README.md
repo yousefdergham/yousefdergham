@@ -1,10 +1,15 @@
-### Hi there, I'm Yousef Dergham 👋
 
-## I'm Full Stack Developer!
+<img width="250" align="right" src="https://c.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
 
-- 🌱 I’m currently learning everything 🤣
-- 🤞 I am looking for an opportunity to develop me 
-- ⚡ Fun fact: I love to Swim and play Games
+# Hi there, I'm Yousef Dergham 👋
+Hi there 👋, My name is Yousef. A self-taught programmer, passionate and fast-learner full-stack developer from Egypt 🌎.I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
+
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning GraphQL, Advanced Reactjs
+- 💬 Ask me about #Javascript #ReactJS #NodeJS
+- ⚡ Fun fact:Right now, I'm reading about psychology
+
+
 
 ### Connect with me:
 
