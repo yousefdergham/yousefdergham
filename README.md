@@ -2,12 +2,12 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 # Hello 👋
-Hi there 👋, My name is Yousef. A self-taught programmer, passionate and fast-learner full-stack developer from Egypt 🌎.I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
+Hi there 👋, My name is Yousef Dergham. A CS Student,self-taught programmer, passionate and fast-learner full-stack developer .I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
 
 - 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning GraphQL, Advanced Reactjs
+- 🌱 I’m currently learning TS,  Next js
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
-- ⚡ Fun fact:Right now, I'm reading about psychology
+- ⚡ Fun Fact: My perfect day would start with Cup of coffee and end with Cup of coffee.
 
 
 
