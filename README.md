@@ -11,19 +11,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-Hi there 👋, My name is Yousef Dergham. Self-taught programmer, passionate and fast-learner full-stack developer .I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
-
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning TS,  Next js
+- 🔭 I’m currently React Developer
+- 🌱 I’m currently learning TS, Next js
+- 💻 I’m currently a CS student 
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
-- ⚡ Fun Fact: My perfect day would start with Cup of coffee and end with Cup of coffee.
+- ⚡ Fun Fact: My perfect day would start with a Cup of coffee and end with a Cup of coffee.
 - 👨‍💻 All of my projects are available at [https://yousefdergham.netlify.app/](https://yousefdergham.netlify.app/)
 
 
-### contact with me:
+### You can reach me via:
 
 <a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -47,3 +46,7 @@ Hi there 👋, My name is Yousef Dergham. Self-taught programmer, passionate and
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yousefdergham">
+</a>
