@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🔭 I’m currently React Developer
-- 🌱 I’m currently learning TS, Next js
-- 💻 I’m currently a CS student 
+- 🏢 I currently work as a technical content writer at Almadrsa
+- 👨‍💻 I'm currently  Work with Mern Stack 
+- 💻 I’m a CS student 
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
 - ⚡ Fun Fact: My perfect day would start with a Cup of coffee and end with a Cup of coffee.
 - 👨‍💻 All of my projects are available at [https://yousefdergham.netlify.app/](https://yousefdergham.netlify.app/)
