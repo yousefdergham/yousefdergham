@@ -2,7 +2,7 @@
 <!--      YOUSEF’S README     -->
 <!-- ========================= -->
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF"/>
+
 <p align="center">
   <h1>Hey there, I’m <a href="https://yousefdergham.vercel.app/">Yousef Dergham</a> 👋</h1>
   <p><em>Full-stack Web Developer · CS Student · Coffee Lover ☕</em></p>
@@ -14,11 +14,11 @@
 ## 🚀 About Me
 
 <div align="center">
-
-  <div align="left">
-    I am an experienced Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-  </div>
+<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
 </div>
+  <div align="left">
+    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+  </div>
 
 ## 🔧 My Tech Stack
 <p align="center">
